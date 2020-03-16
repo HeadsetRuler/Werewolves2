@@ -10,7 +10,7 @@ namespace Werewolves2.Server.Controllers
 {
     //[ApiController]
     //[Route("[controller]")]
-    //public class WeatherForecastController : ControllerBase
+    //public class WerewolvesController : ControllerBase
     //{
     //    private static readonly string[] Summaries = new[]
     //    {
